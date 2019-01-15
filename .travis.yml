@@ -1,0 +1,10 @@
+language: java
+jdk:
+- oraclejdk8
+- oraclejdk7
+notifications:
+  email:
+    recipients:
+    - tansalalv@alum.us.es
+    on_success: always
+    on_failure: always
